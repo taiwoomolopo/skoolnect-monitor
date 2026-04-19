@@ -2,6 +2,7 @@
   "name": "worker",
   "version": "1.0.0",
   "type": "module",
+  "main": "worker.js",
   "dependencies": {
     "axios": "^1.6.0",
     "bullmq": "^5.0.0",
